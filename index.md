@@ -20,4 +20,4 @@ Everything in this Handbook draft and subject to change so don't be afraid to ad
   * [Monthly Calls]()
 
 * [Engineering](http://)
-* [External Communication](https://github.com/exlabs/exlabs_handbook/blob/master/docs/external_communication.md)
+* [External Communication](/docs/external_communication.md)

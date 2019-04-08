@@ -12,6 +12,7 @@ Forwarded emails generally are FYI (for your information) ie. something that is,
 * In order for the above to work, refrain from cc'd people on emails, unless it's really essential.
 * ALWAYS, ALWAYS, ALWAYS USE YOUR COMPANY EMAIL ADDRESS, IDEALLY THE .CO.UK ONE.
 SET UP YOUR GMAIL TO AUTOMATICALLY SEND/REPLY TO EMAILS FROM THE .CO.UK DOMAIN. You can do so by going to Settings in Gmail and then select 'Accounts'. Change the reply address to initial.surname@exlabs.co.uk and then edit the account name info to 'Name Surname - Exlabs Software'. Make sure the 'reply' address is also set to .co.uk email by default.
+
 # Email Writing Guidelines
 * Greeting - 'Dear' or 'Hi', depending on the circumstances. Most of the time it should be 'Hi', unless the relationship is very official
 * Addressee - Apart from the greeting, ALWAYS use either the name of the person you're writing too. Alternatively, if you're addressing multiple people, use 'All' instead. E.g. Hi John or Hi All, never just Hi.

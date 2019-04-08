@@ -13,16 +13,16 @@ Forwarded emails generally are FYI (for your information) ie. something that is,
 * ALWAYS, ALWAYS, ALWAYS USE YOUR COMPANY EMAIL ADDRESS, IDEALLY THE .CO.UK ONE.
 SET UP YOUR GMAIL TO AUTOMATICALLY SEND/REPLY TO EMAILS FROM THE .CO.UK DOMAIN. You can do so by going to Settings in Gmail and then select 'Accounts'. Change the reply address to initial.surname@exlabs.co.uk and then edit the account name info to 'Name Surname - Exlabs Software'. Make sure the 'reply' address is also set to .co.uk email by default.
 # Email Writing Guidelines
-1. Greeting - 'Dear' or 'Hi', depending on the circumstances. Most of the time it should be 'Hi', unless the relationship is very official
-2. Addressee - Apart from the greeting, ALWAYS use either the name of the person you're writing too. Alternatively, if you're addressing multiple people, use 'All' instead. E.g. Hi John or Hi All, never just Hi.
-3. It's normally expected to start a new thread (conversation) with a kind gesture, such as 'I hope everything is fine on your side' or 'I hope you are ok'. This is not compulsory however. Please note this does not apply if you exchange emails with someone frequently i.e. you wouldn't write it twice on the same day, to the same person.
-4. If the above kind gesture isn't applicable, start the email with 'I am writing to...' (e.g. let you know, ask about, remind you, find out etc) rather than just start talking about the purpose. Also, if yu are replying to someone's email, it's safe to say 'Thanks for your email'.
-5. Try to structure your email where different topics/parts of the conversation are separated by using different paragraphs.
-6. Try to be as descriptive as you can, NEVER assume anything is obvious, ALWAYS state all relevant fact. Assume the client is completely not technical with no knowledge of the production process.
-7. Never just ask for feedback, always guide the client with your thinking process, why you've taken such decisions etc
-8. Finish the email with a call to action, be clear what you expect them to do.
-9 Sign your email with either 'Thanks' or 'Best regards', depending on how official the relationship is. Don't use your name as it will be included in the signature.
-10. All of the above are to be used with a pinch of salt as there are no strict rules to writing an email and they do require some common sense.
+* Greeting - 'Dear' or 'Hi', depending on the circumstances. Most of the time it should be 'Hi', unless the relationship is very official
+* Addressee - Apart from the greeting, ALWAYS use either the name of the person you're writing too. Alternatively, if you're addressing multiple people, use 'All' instead. E.g. Hi John or Hi All, never just Hi.
+* It's normally expected to start a new thread (conversation) with a kind gesture, such as 'I hope everything is fine on your side' or 'I hope you are ok'. This is not compulsory however. Please note this does not apply if you exchange emails with someone frequently i.e. you wouldn't write it twice on the same day, to the same person.
+* If the above kind gesture isn't applicable, start the email with 'I am writing to...' (e.g. let you know, ask about, remind you, find out etc) rather than just start talking about the purpose. Also, if yu are replying to someone's email, it's safe to say 'Thanks for your email'.
+* Try to structure your email where different topics/parts of the conversation are separated by using different paragraphs.
+* Try to be as descriptive as you can, NEVER assume anything is obvious, ALWAYS state all relevant fact. Assume the client is completely not technical with no knowledge of the production process.
+* Never just ask for feedback, always guide the client with your thinking process, why you've taken such decisions etc
+* Finish the email with a call to action, be clear what you expect them to do.
+* Sign your email with either 'Thanks' or 'Best regards', depending on how official the relationship is. Don't use your name as it will be included in the signature.
+* All of the above are to be used with a pinch of salt as there are no strict rules to writing an email and they do require some common sense.
 
 # Video Communication
 * Use Google Calendar to schedule a call and remember to include a link to a call to RSVP. We don't have a standard video-chat tool, although we prefer Zoom and Google Hangouts.

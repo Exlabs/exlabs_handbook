@@ -10,8 +10,8 @@
 - CTO : Krzysztof Szromek
 - HR Manager: Joanna Janicka
 - Office Manager: Joanna Szulc
-- Delivery Manager: Bartosz Skotarek
 - Graphic Designer: Krystian Korzeniowski
+- Marketing Manager: Dariusz Utracki
 - QA: Dorota Szmajnta (maternity leave)
 
 ## Team members per projects
@@ -20,6 +20,7 @@
 - Team Lead, backend developer: Paweł Słowik (Rapide) 
 - Backend developer: Paweł Strącała (Ununuk)
 - Backend developer: Mikołaj Wargowski
+- Backend developer: Mateusz Wilczyński
 - QA: Konrad Golański
 - QA: Joanna Lisek
 - Frontend developer: Artur Kosorz

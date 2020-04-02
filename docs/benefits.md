@@ -5,7 +5,7 @@ For people working from Poland, we subsidize (50%) Multisport pass to vast netwo
 # Medical Cover
 For people working from Poland, we subsidize (50%) Medicover care package. Get in touch with our Office Manager in order to subscribe.
 # Paid holidays
-Each memeber of our team has the right for 20 days of paid vacation per year. 
+Each member of our team has the right for 20 days of paid vacation per year. 
 # Paid parking 
 We refund cost of paid parking lots if you have to pay them working from our office.
 # Computer & Software

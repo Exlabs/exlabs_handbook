@@ -12,5 +12,5 @@ If you want to work on your own equipment, we have no problem with that. We can 
 We are work at flexible hours, requiring attendance on daily online meetings
 
 
-More specific information you will get as soon as you start working with us.
+As soon as you will join our team, you will get more specific information about benefits from our HR Manager.
 We are aware that everyone is different and everyone expect different benefits. If you have any suggestions, share this idea with us. Let's talk.

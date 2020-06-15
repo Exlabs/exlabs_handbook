@@ -1,13 +1,13 @@
-# About Our Values
-See [this](https://docs.google.com/document/d/1o_kgchJBJqrvOvgMZDVm-9gOxL7Y3vBSed4y45GiNmg/edit) for our last workshop on values(in polish)
-## Involvement
+# Nasze Wartości
+Sprawdź [tutaj](https://docs.google.com/document/d/1o_kgchJBJqrvOvgMZDVm-9gOxL7Y3vBSed4y45GiNmg/edit) z naszych ostatnich warsztatów na temat wartości 
+## Zaangażowanie
 
-## Empathy
+## Empatia
 
-## Trust
+## Zaufanie
 
-## Constant Learning
+## Samodoskonalenie
 
-## Responsibility
+## Odpowiedzialność
 
-## Curiosity
+## Ciekawość
